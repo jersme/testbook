@@ -1,4 +1,4 @@
-# Book Title
-#### by Your Name
+# Test gitbook with R
+#### by Jeroen Smeets
 
-Replace with an introduction of your book.
+This is the book for testing new features in the gitbook repo
